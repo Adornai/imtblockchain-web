@@ -2,7 +2,7 @@ import adonaiX from "../assets/adonaiX.jpg";
 import adonaipic from "../assets/adonaipic.jpeg";
 import chideraX from "../assets/chideraX.jpg";
 import chiderapic from "../assets/chiderapic.jpeg";
-import raphaelX from "../assets/RaphaelX.jpg";
+import raphaelX from "../assets/raphaelX.jpg";
 import raphaelpic from "../assets/raphaelpic.jpeg";
 import powertechX from "../assets/powertechX.jpeg";
 import powertechpic from "../assets/powertechpic.jpeg";
