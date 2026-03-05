@@ -37,7 +37,7 @@ const coreLeaders = [
     xAvatar: raphaelX, 
     xLink: "https://x.com/princeraphaelhandle"
   },{
-    name: "Powertech",
+    name: "Ifeanyichukwu Isaac Boanerges",
     role: "Co-Founder & Chief Operating Officer (COO)",
     description: "Powertech drives the operational strategy and physical footprint of the IMTBlockchain community. Leading campus logistics and on ground execution, he is directly responsible for transforming our broader Web3 vision into a highly engaged, massive student movement at the Institute of Management and Technology. From coordinating large scale tech events to optimizing day to day community operations, his leadership ensures our decentralized goals have a powerful, real-world impact.",
     realPic: powertechpic,   
@@ -45,7 +45,7 @@ const coreLeaders = [
     xLink: "https://x.com/powertechhandle"
   },
   {
-    name: "Austin",
+    name: "Austin Ifeanyi",
     role: "Community Lead & Developer",
     description: "As the Head of Community for IMTBlockchain, Austin is the primary bridge between the leadership team and the student members. He oversees overarching community engagement strategies, drives discussions, and ensures the community culture remains active, educational, and focused on Web3 growth..",
     realPic: austinpic,   
@@ -53,7 +53,7 @@ const coreLeaders = [
     xLink: "https://x.com/austinh"
   },
   {
-    name: "Vicky",
+    name: "Vicky uloma",
     role: "Ecosystem Moderator",
     description: "Vicky manages the day to day operations of IMTBlockchain’s social and discussion platforms. She is responsible for welcoming new members, moderating conversations, and answering questions, ensuring our digital ecosystem remains a safe, organized, and highly active hub for blockchain education.",
     realPic: vickypic,   
