@@ -14,7 +14,7 @@ const Header = () => {
 
   return (
     
-    <div className="fixed w-full top-0 left-0 z-50 rounded-full mt-2 bg-blue-500/30  border border-black shadow-2xl backdrop-blur-3xl" id="home">
+    <div className="fixed w-full top-0 left-0 z-50 rounded-full mt-2 bg-blue-500  border border-black shadow-2xl" id="home">
       
       
       <nav className="container mx-auto px-4 sm:px-6 h-16 sm:h-20 flex items-center justify-between shadow">
@@ -26,7 +26,7 @@ const Header = () => {
 
         
         <div 
-          className={`absolute top-0 border border-black lg:border-transparent left-0 w-full min-h-[80vh] rounded-4xl bg-blue-500/70 backdrop-blur-sm lg:bg-transparent  overflow-hidden lg:min-h-fit lg:static lg:w-auto lg:flex items-center gap-8 transition-all duration-300 ease-in-out
+          className={`absolute top-0 border border-black lg:border-transparent left-0 w-full min-h-[80vh] rounded-4xl bg-blue-500  overflow-hidden lg:min-h-fit lg:static lg:w-auto lg:flex items-center gap-8 transition-all duration-300 ease-in-out
           ${isMenuOpen ? "translate-x-0" : "-translate-x-full lg:translate-x-0"}`}
         >
          

@@ -38,7 +38,7 @@ const coreLeaders = [
     xLink: "https://x.com/princeraphaelhandle"
   },{
     name: "Powertech",
-    role: "Chief Operating Officer (COO)",
+    role: "Co-Founder & Chief Operating Officer (COO)",
     description: "Powertech drives the operational strategy and physical footprint of the IMTBlockchain community. Leading campus logistics and on ground execution, he is directly responsible for transforming our broader Web3 vision into a highly engaged, massive student movement at the Institute of Management and Technology. From coordinating large scale tech events to optimizing day to day community operations, his leadership ensures our decentralized goals have a powerful, real-world impact.",
     realPic: powertechpic,   
     xAvatar: powertechX, 
