@@ -8,8 +8,8 @@ import powertechX from "../assets/powertechX.jpeg";
 import powertechpic from "../assets/powertechpic.jpeg";
 
 import austinpic from "../assets/austinpic.jpeg";
-// import vickyX from "../assets/vickyX.jpg";
-// import vickypic from "../assets/vickypic.jpg";
+
+import vickypic from "../assets/vickypic.jpeg";
 
 
 const coreLeaders = [
@@ -56,8 +56,8 @@ const coreLeaders = [
     name: "Vicky",
     role: "Ecosystem Moderator",
     description: "Vicky manages the day to day operations of IMTBlockchain’s social and discussion platforms. She is responsible for welcoming new members, moderating conversations, and answering questions, ensuring our digital ecosystem remains a safe, organized, and highly active hub for blockchain education.",
-    // realPic: vickypic,   
-    // xAvatar: vickyX, 
+    realPic: vickypic,   
+    xAvatar: vickypic, 
     xLink: "https://x.com/vickyhandle"
   }
 ];
